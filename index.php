@@ -16,7 +16,6 @@
         echo 'echec de connexion';
     }
 ?> 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
